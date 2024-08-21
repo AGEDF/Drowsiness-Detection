@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>drowsy.268b6a87-ee9a-11ed-82ea-8172bf30f5c0.jpg</filename>
+	<path>C:\Users\VIPANSHU\ML\Drowsiness detection\data\images\drowsy.268b6a87-ee9a-11ed-82ea-8172bf30f5c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drowsy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>69</ymin>
+			<xmax>428</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
